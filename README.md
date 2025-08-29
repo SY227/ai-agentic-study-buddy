@@ -95,7 +95,6 @@ heroku container:release web -a "$APP"
 heroku open -a "$APP"
 ```
 
-MIT © 2025 Simon Yam
 
 ## License
 MIT © 2025 Simon Yam
