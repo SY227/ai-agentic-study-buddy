@@ -1,8 +1,13 @@
 # Agentic Study Buddy (YouTube & PDF)
 
-Live app:
+Live app: https://ai-agentic-study-buddy-d8ec6ec5b559.herokuapp.com/
 
 ## Demo
+
+<video src="assets/Agentic_Study_Buddy_Demo.mp4" controls title="Agentic Study Buddy Demo"></video>
+
+[▶ Demo video (MP4)](assets/Agentic_Study_Buddy_Demo.mp4)
+
 <!-- Add a GIF or video link if available -->
 <!-- ![App demo](assets/demo.gif) -->
 <!-- [▶ Full demo video](assets/demo.mp4) -->
