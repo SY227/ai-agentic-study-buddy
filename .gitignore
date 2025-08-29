@@ -1,0 +1,12 @@
+client/node_modules/
+server/node_modules/
+.env
+.env.*
+server/.env
+client/.env
+client/dist/
+server/dist/
+client/.vite/
+.DS_Store
+*.log
+collected_code.txt
