@@ -4,9 +4,7 @@ Live app: https://ai-agentic-study-buddy-d8ec6ec5b559.herokuapp.com/
 
 ## Demo
 
-![App demo](assets/demo.png)
 
-[Full demo video (MP4)](assets/Agentic_Study_Buddy_Demo.mp4)
 
 
 
